@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6358c51be5edc0711d633723",
+    "index": 0,
+    "img": "https://i.ibb.co/99spbMG/html-card.png",
+    "cover_thumb": "https://i.ibb.co/sjyFnpK/htmlcss-cover.png",
+    "price": 25,
+    "name": "HTML & CSS Full",
+    "mentor": {
+      "name": "Aaliyah Khan",
+      "gender": "Female",
+      "primary_language": "English",
+      "secondary_language": "Malaya",
+      "profession": "Professional Front-End Developer",
+      "mentor_img": "https://i.ibb.co/nMvzQdn/mentor-1.png",
+      "email": "aaliyah62@mail.com"
+    },
+    "about": "HTML is at the core of every web page, regardless the complexity of a site or number of technologies involved. It's an essential skill for any web professional. It's the starting point for anyone learning how to create content for the web. And, luckily for us, it's surprisingly easy to learn. HTML provides the raw tools needed to structure content on a website. CSS, on the other hand, helps to style this content so it appears to the user the way it was intended to be seen. These languages are kept separate to ensure websites are built correctly before they're reformatted. If HTML is the drywall, CSS is the paint."
+  },
+  {
+    "id": "6358c51b18a5e76436ed7958",
+    "index": 1,
+    "img": "https://i.ibb.co/kHKBN2C/github-card.png",
+    "cover_thumb": "https://i.ibb.co/R3pWY5P/github-cover.png",
+    "price": 15,
+    "name": "Mastery in Github",
+    "mentor": {
+      "name": "Jimmy Dane",
+      "gender": "Male",
+      "primary_language": "English",
+      "secondary_language": "French",
+      "profession": "Github Developer",
+      "mentor_img": "https://i.ibb.co/q9p561T/mentor-2.png",
+      "email": "jimmy$dane@mail.com"
+    },
+    "about": "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests. In this course, You will learn Github from the beginning"
+  },
+  {
+    "id": "6358c51b1141559b399f7524",
+    "index": 2,
+    "img": "https://i.ibb.co/qgZ6HL1/javascript-card.png",
+    "cover_thumb": "https://i.ibb.co/jVvFqyS/javascript-cover.png",
+    "price": 50,
+    "name": "JavaScript Mystery",
+    "mentor": {
+      "name": "James William",
+      "gender": "Male",
+      "primary_language": "English",
+      "secondary_language": "Germen",
+      "profession": "Professional Front-End Engineer",
+      "mentor_img": "https://i.ibb.co/bN9LgbP/mentor-3.png",
+      "email": "james2william@email.com"
+    },
+    "about": "JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles. JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior. We will teach you from the beginning to advanced JavaScript in this course"
+  },
+  {
+    "id": "6358c51bf9f027025fcf0ce9",
+    "index": 3,
+    "img": "https://i.ibb.co/s5GPC49/react-card.png",
+    "cover_thumb": "https://i.ibb.co/stDJ26Y/react-cover.png",
+    "price": 60,
+    "name": "React for Beginners",
+    "mentor": {
+      "name": "Ayaat Habib",
+      "gender": "Female",
+      "primary_language": "English",
+      "secondary_language": "Arabic",
+      "profession": "Professional React Developer",
+      "mentor_img": "https://i.ibb.co/JqMRMTq/mentor-4.jpg",
+      "email": "ayaat_habib@mail.com"
+    },
+    "about": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality. We will cover top to bottom about React in this course"
+  },
+  {
+    "id": "6358c51b3f4d0222957fcc8a",
+    "index": 4,
+    "img": "https://i.ibb.co/XZTtCB7/nodejs-card.png",
+    "cover_thumb": "https://i.ibb.co/8YL85sL/nodejs-cover.png",
+    "price": 80,
+    "name": "Learn Node.JS",
+    "mentor": {
+      "name": "Zara Laiba",
+      "gender": "Female",
+      "primary_language": "English",
+      "secondary_language": "Arabic",
+      "profession": "Professional Back-End Developer",
+      "mentor_img": "https://i.ibb.co/YBVLkPg/mentor-5.jpg",
+      "email": "labib56@mail.com"
+    },
+    "about": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. Since JavaScript is one of the most popular programming languages, most of the front-end developers have a good grasp over it. It becomes much easier for them to start using the Node.js at the backend. It is easier to learn Node.js and consumes less time to work with it. It has been mentioned earlier that Node.js interprets the JavaScript code via Google's V8 JavaScript engine. This engine complies the JavaScript code directly into the machine code. This makes it easier and faster to implement the code in a effective manner."
+  },
+  {
+    "id": "6358c51bfcd8acd7ad3e7cce",
+    "index": 5,
+    "img": "https://i.ibb.co/HdsycYS/pythone-card.png",
+    "cover_thumb": "https://i.ibb.co/zsXvYhx/python-cover.png",
+    "price": 120,
+    "name": "Learn Python",
+    "mentor": {
+      "name": "Lucas Jackson",
+      "gender": "Male",
+      "primary_language": "English",
+      "secondary_language": "Russian",
+      "profession": "Full-Stack Web Developer",
+      "mentor_img": "https://i.ibb.co/60MJ8cr/mentor-6.jpg",
+      "email": "its_lucas@mail.com"
+    },
+    "about": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. This versatility, along with its beginner-friendliness, has made it one of the most-used programming languages today. A survey conducted by industry analyst firm RedMonk found that it was the second-most popular programming language among developers in 2021. Right now Python is the most popular programming language. Because of it's free, easy to use, compatible with various platforms, etc. You will get details learning about python in this course"
+  }
+]
