@@ -18,6 +18,13 @@ app.get('/courses/:id', (req, res)=>{
     res.send(selectedCourse);
 })
 
+app.get('/courses/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const getCourseData = course_data.find(data => data.id === id)
+    res.send(getCourseData);
+
+})
+
 app.listen(port, () => {
     console.log(`My Learning Pool server is running on Port ${port}`);
 })
